@@ -1,0 +1,15 @@
+{
+  "name": "b00mbot",
+  "version": "1.0.0",
+  "description": "Maybe... a raid sign-up bot for Discord",
+  "main": "b00mbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^10.0.1",
+    "fs": "0.0.1-security"
+  }
+}
