@@ -1,6 +1,6 @@
 {
-    "botToken": "MjYzMzk0MzY0MDU3NzE0Njg4.C0RYrQ.Vf-AOi7KFG32wc7lhi3NuKpzqOA",
+    "botToken": "enter-your-own-token",
     "commandPrefix": "!",
-    "serverId": "223425918436245504",
-    "raidChannelId": "263423065130663938"
+    "serverId": "enter-your-own-server-id",
+    "raidChannelId": "enter-your-own-raid-channel-id"
 }
